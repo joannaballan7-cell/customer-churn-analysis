@@ -90,3 +90,4 @@ Churned customers had a much shorter average relationship with the company:
 * Create an interactive dashboard using Power BI
 * Perform deeper customer segmentation analysis
 * Analyze additional factors affecting retention
+
